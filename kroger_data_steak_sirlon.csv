@@ -1,9 +1,17 @@
 date,name,store,id,brand,price,sale_price
-2022-04-02,Simple Truth Organic® Grass Fed Beef Top Sirloin,kroger,0001111019267,Simple Truth Organic,9.99,
-2022-04-02,Beef Select Sirloin Tip Steak Value Pack (About 3 per Pack),kroger,0020153700000,,6.99,5.99
-2022-04-02,Nolan Ryan Beef Top Sirloin Steak (1 Steak),kroger,0022142200000,Nolan Ryan,10.99,
-2022-04-02,AdapTable Meals® Smokey Bourbon Boneless Beef Sirloin Steaks,kroger,0004531095035,AdapTable Meals,9.99,
-2022-04-02,Beef Select Round Sirloin Tip Steak (1 Steak),kroger,0020153500000,,6.99,
-2022-04-02,Campbell's Chunky Sirloin Steak with Hearty Vegetables Soup,kroger,0005100013809,Campbell's,2.59,
-2022-04-02,Tyson USDA Select Thin Cut Boneless Beef Sirloin Tip Steaks,kroger,0023256400000,Tyson,6.99,5.99
-2022-04-02,AdapTable Meals® Garlic Butter Boneless Beef Sirloin Steaks,kroger,0004531095025,AdapTable Meals,9.99,
+2022-04-02,Simple Truth Organic® Grass Fed Beef Top Sirloin,kroger,1111019267,Simple Truth Organic,9.99,
+2022-04-02,Beef Select Sirloin Tip Steak Value Pack (About 3 per Pack),kroger,20153700000,,6.99,5.99
+2022-04-02,Nolan Ryan Beef Top Sirloin Steak (1 Steak),kroger,22142200000,Nolan Ryan,10.99,
+2022-04-02,AdapTable Meals® Smokey Bourbon Boneless Beef Sirloin Steaks,kroger,4531095035,AdapTable Meals,9.99,
+2022-04-02,Beef Select Round Sirloin Tip Steak (1 Steak),kroger,20153500000,,6.99,
+2022-04-02,Campbell's Chunky Sirloin Steak with Hearty Vegetables Soup,kroger,5100013809,Campbell's,2.59,
+2022-04-02,Tyson USDA Select Thin Cut Boneless Beef Sirloin Tip Steaks,kroger,23256400000,Tyson,6.99,5.99
+2022-04-02,AdapTable Meals® Garlic Butter Boneless Beef Sirloin Steaks,kroger,4531095025,AdapTable Meals,9.99,
+2022-04-03,Beef Select Sirloin Tip Steak Value Pack (About 3 per Pack),kroger,0020153700000,,6.99,5.99
+2022-04-03,Simple Truth Organic® Grass Fed Beef Top Sirloin,kroger,0001111019267,Simple Truth Organic,9.99,
+2022-04-03,Nolan Ryan Beef Top Sirloin Steak (1 Steak),kroger,0022142200000,Nolan Ryan,10.99,
+2022-04-03,AdapTable Meals® Smokey Bourbon Boneless Beef Sirloin Steaks,kroger,0004531095035,AdapTable Meals,9.99,
+2022-04-03,Campbell's Chunky Sirloin Steak with Hearty Vegetables Soup,kroger,0005100013809,Campbell's,2.59,
+2022-04-03,Beef Select Round Sirloin Tip Steak (1 Steak),kroger,0020153500000,,6.99,
+2022-04-03,Tyson USDA Select Thin Cut Boneless Beef Sirloin Tip Steaks,kroger,0023256400000,Tyson,6.99,5.99
+2022-04-03,AdapTable Meals® Garlic Butter Boneless Beef Sirloin Steaks,kroger,0004531095025,AdapTable Meals,9.99,

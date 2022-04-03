@@ -1,11 +1,18 @@
-date,name,id,brand,price,sale_price
 date,name,store,id,brand,price,sale_price
-2022-04-02,Nolan Ryan Beef Boneless Ribeye Steak Value Pack (About 3 Steaks per Pack),kroger,0022120500000,Nolan Ryan,16.99,15.99
-2022-04-02,Bone-In Beef Select Ribeye Steak Value Pack (3 per Pack) (Limit 2 on Sale Retail),kroger,0020119900000,,11.99,10.99
-2022-04-02,Simple Truth® Natural Angus Beef Ribeye Steak,kroger,0001111019258,Simple Truth,12.99,
-2022-04-02,Nolan Ryan Beef Boneless Ribeye Steak (1 Steak),kroger,0022120300000,Nolan Ryan,16.99,
-2022-04-02,Nolan Ryan 34 Prime Boneless Ribeye Steak,kroger,0081066300808,Nolan Ryan,17.99,
-2022-04-02,Simple Truth Organic™ Grass Fed Beef Ribeye Steak,kroger,0001111019270,Simple Truth Organic,13.99,
-2022-04-02,Simple Truth™ Natural Bison Ribeye Steak,kroger,0001111060429,Simple Truth,16.99,
-2022-04-02,Rumba Meats Thin-Sliced Beef Ribeye Steak,kroger,0023183300000,Rumba Meats,10.99,
-2022-04-02,Beef Select Bone-In Ribeye Steak (1 Steak),kroger,0020119700000,,11.99,
+2022-04-02,Nolan Ryan Beef Boneless Ribeye Steak Value Pack (About 3 Steaks per Pack),kroger,22120500000,Nolan Ryan,16.99,15.99
+2022-04-02,Bone-In Beef Select Ribeye Steak Value Pack (3 per Pack) (Limit 2 on Sale Retail),kroger,20119900000,,11.99,10.99
+2022-04-02,Simple Truth® Natural Angus Beef Ribeye Steak,kroger,1111019258,Simple Truth,12.99,
+2022-04-02,Nolan Ryan Beef Boneless Ribeye Steak (1 Steak),kroger,22120300000,Nolan Ryan,16.99,
+2022-04-02,Nolan Ryan 34 Prime Boneless Ribeye Steak,kroger,81066300808,Nolan Ryan,17.99,
+2022-04-02,Simple Truth Organic™ Grass Fed Beef Ribeye Steak,kroger,1111019270,Simple Truth Organic,13.99,
+2022-04-02,Simple Truth™ Natural Bison Ribeye Steak,kroger,1111060429,Simple Truth,16.99,
+2022-04-02,Rumba Meats Thin-Sliced Beef Ribeye Steak,kroger,23183300000,Rumba Meats,10.99,
+2022-04-02,Beef Select Bone-In Ribeye Steak (1 Steak),kroger,20119700000,,11.99,
+2022-04-03,Nolan Ryan Beef Boneless Ribeye Steak Value Pack (About 3 Steaks per Pack),kroger,0022120500000,Nolan Ryan,16.99,15.99
+2022-04-03,Simple Truth® Natural Angus Beef Ribeye Steak,kroger,0001111019258,Simple Truth,12.99,
+2022-04-03,Nolan Ryan Beef Boneless Ribeye Steak (1 Steak),kroger,0022120300000,Nolan Ryan,16.99,
+2022-04-03,Nolan Ryan 34 Prime Boneless Ribeye Steak,kroger,0081066300808,Nolan Ryan,17.99,
+2022-04-03,Simple Truth Organic™ Grass Fed Beef Ribeye Steak,kroger,0001111019270,Simple Truth Organic,13.99,
+2022-04-03,Simple Truth™ Natural Bison Ribeye Steak,kroger,0001111060429,Simple Truth,16.99,
+2022-04-03,Rumba Meats Thin-Sliced Beef Ribeye Steak,kroger,0023183300000,Rumba Meats,10.99,
+2022-04-03,Beef Select Bone-In Ribeye Steak (1 Steak),kroger,0020119700000,,11.99,
