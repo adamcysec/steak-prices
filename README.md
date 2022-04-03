@@ -22,4 +22,4 @@ This python script handles the code for searching the 4 different kinds of steak
 ## Future plans
 I plan to extend the steak tracking to other stores such as, HEB.
 
-I will also be hosting the steak data in this repository and plan on making a report tool for alerting me to when i should by steak. 
+I will also be hosting the steak data in this repository and plan on making a report tool for alerting me to when i should buy steak. 
