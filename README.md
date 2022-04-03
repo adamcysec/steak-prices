@@ -9,3 +9,4 @@ I wanted to track steak prices over time to determine when steak prices are at a
 I was able to create a developer account with [Kroger](https://developer.kroger.com/) and access their api.
 
 ## krogerlib.py
+This python script 
