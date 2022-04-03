@@ -2,6 +2,7 @@ import requests
 from krogerlib import krogerClient
 import csv
 from datetime import datetime
+from os.path import exists
 
 def main():
     kClient = krogerClient() 
@@ -77,12 +78,15 @@ def out_csv(products, term):
     steak_name = term.replace(' ', '_')
     
     file_name = f"kroger_data_{steak_name}.csv"
+
+    file_exists = exists(f"./{file_name}")
     
     with open(file_name, 'a', newline='') as csvfile:
-        fieldnames = ['date', 'name', 'id', 'brand', 'price', 'sale_price']
+        fieldnames = ['date', 'name', 'store', 'id', 'brand', 'price', 'sale_price']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        writer.writeheader()
+        if not file_exists:
+            writer.writeheader()
         
         for product in products:
             writer.writerow(product)
