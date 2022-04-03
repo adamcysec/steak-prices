@@ -18,3 +18,8 @@ This python script handles the kroger api code required for reading the local ap
 
 ### get-steakprices.py
 This python script handles the code for searching the 4 different kinds of steak and outputing the data into CSV files (one file for each steak type).
+
+## Future plans
+I plan to extend the steak tracking to other stores such as, HEB.
+
+I will also be hosting the steak data in this repository and plan on making a report tool for alerting me to when i should by steak. 
