@@ -12,4 +12,4 @@ I was able to create a developer account with [Kroger](https://developer.kroger.
 This python script handles the kroger api code required for reading the local api key file, api authentication, and product search.
 
 ## get-steakprices.py
-This python script handles the code for search the 4 different kinds of steak and outputing the data into CSV files (one file for each steak type).
+This python script handles the code for searching the 4 different kinds of steak and outputing the data into CSV files (one file for each steak type).
