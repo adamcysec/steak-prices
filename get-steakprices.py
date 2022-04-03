@@ -58,7 +58,7 @@ def find_steaks(kClient, term):
 
         today_date = datetime.now().strftime("%F")
 
-        data_json = {'date': today_date, 'name': product_name, 'id': product_id, 'brand': brand, 'price': reg_price, 'sale_price': onSale_price}
+        data_json = {'date': today_date, 'store':'kroger', 'name': product_name, 'id': product_id, 'brand': brand, 'price': reg_price, 'sale_price': onSale_price}
         products.append(data_json)
 
     return products
