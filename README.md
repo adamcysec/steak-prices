@@ -23,3 +23,8 @@ This python script handles the code for searching the 4 different kinds of steak
 I plan to extend the steak tracking to other stores such as, HEB.
 
 I will also be hosting the steak data in this repository and plan on making a report tool for alerting me to when i should buy steak. 
+
+**update**
+HEB does not have a publicly documented api and does not offer public api access. This is the same case with Sam's club. 
+
+This project will be strictly limited to Kroger.
