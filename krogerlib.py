@@ -39,10 +39,10 @@ class krogerClient:
     
         try:
             # windows compatible
-            f = open('.//api_key.txt')
+            f = open('.//kroger_api_key.txt')
         except:
             # linux compatible
-            f = open('./api_key.txt')
+            f = open('./kroger_api_key.txt')
 
         line = f.read()
         api_key = line.strip()
